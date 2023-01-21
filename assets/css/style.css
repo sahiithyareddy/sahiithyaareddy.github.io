@@ -73,7 +73,7 @@ html[data-theme="dark"] {
 }
 
 ::-webkit-scrollbar-track {
-  -webkit-box-shadow: inset 0 0 6px #c22c30;
+  -webkit-box-shadow: inset 0 0 6px #aca6a8;
   border-radius: 2px;
   background: #f1f1f1;
 }
@@ -82,7 +82,7 @@ html[data-theme="dark"] {
   border-radius: 2px;
   max-height: 10px;
   -webkit-box-shadow: inset 0 0 6px #aca6a8;
-  background: #c22c30;
+  background: #aca6a8;
   transition: 0.3s;
 }
 
