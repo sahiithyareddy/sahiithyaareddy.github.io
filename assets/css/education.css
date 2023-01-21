@@ -39,7 +39,7 @@ html {
 /*color of education page heading*/
 
 .edu_background {
-  color: #4e00bb;
+  color: #c22c30;
 }
 
 /* -----Education Section CSS----- */
@@ -387,7 +387,7 @@ header p {
 /* Draws line */
 .timeline::before {
   content: "";
-  background: #C5CAE9;
+  background: #2b2a2a;
   width: 5px;
   height: 80%;
   position: absolute;
@@ -468,7 +468,7 @@ header p {
 .timeline-img {
   width: 30px;
   height: 30px;
-  background: #3F51B5;
+  background: #c22c30;
   border-radius: 50%;
   position: absolute;
   left: 50%;
@@ -539,7 +539,7 @@ blockquote {
 }
 
 .date {
-  background: #FF4081;
+  background: #c22c30;
   display: inline-block;
   color: #FFFFFF;
   padding: 10px;
