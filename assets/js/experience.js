@@ -23,7 +23,7 @@ const exp = [
     cardImage: "assets/images/experience-page/jm-financial--600.png",
     place: "JM Financials Ltd",
     time: "(July - August, 2022)",
-    desp: "Worked as a marketing intern in a financial comapany known as JM Financial Ltd. Designed and analysed data related to the progressing of there products and customer satisfaction.",
+    desp: "Worked as a marketing intern in a financial company known as JM Financial Ltd. Designed and analysed data related to the progressing of there products and customer satisfaction.",
   },
 ];
 
