@@ -73,7 +73,7 @@ html[data-theme="dark"] {
 }
 
 ::-webkit-scrollbar-track {
-  -webkit-box-shadow: inset 0 0 6px #bb86fc;
+  -webkit-box-shadow: inset 0 0 6px #c22c30;
   border-radius: 2px;
   background: #f1f1f1;
 }
@@ -81,8 +81,8 @@ html[data-theme="dark"] {
 ::-webkit-scrollbar-thumb {
   border-radius: 2px;
   max-height: 10px;
-  -webkit-box-shadow: inset 0 0 6px #bb86fc;
-  background: #bb86fc;
+  -webkit-box-shadow: inset 0 0 6px #aca6a8;
+  background: #c22c30;
   transition: 0.3s;
 }
 
@@ -236,7 +236,7 @@ html {
 
 .navbar {
   color: #000000;
-  background-color: #fff;
+  background-color: #c22c30;
   z-index: 2;
   box-shadow: 0 2px 2px rgb(230, 230, 230);
 }
